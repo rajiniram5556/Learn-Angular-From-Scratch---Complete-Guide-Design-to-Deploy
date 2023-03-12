@@ -1,3 +1,3 @@
-# Learn-Angular-From-Scratch---Complete-Guide-Design-to-Deploy
-Learn Angular From Scratch - Complete Guide Design to Deploy 
-starting the code
+starting with figma:
+1.design $ prototype tool
+2.web based designing tool
